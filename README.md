@@ -73,7 +73,7 @@ In order to achieve a higher rate limit with Semantic Scholar, it is necessary t
 
 You can also use the crawler without an API key, but it should be noted that the request limits are quite low, so they may cause issues.
 
-** :unlock: To use an API_KEY, you need to create a `.env` file (e.g. in the main directory of the project). Inside this file, you should create the field `SEMANTIC_SCHOLAR_API_KEY`and set the value to the key that Semantic Scholar has assigned to you upon filling out the form.
+> :unlock: To use an API_KEY, you need to create a `.env` file (e.g. in the main directory of the project). Inside this file, you should create the field `SEMANTIC_SCHOLAR_API_KEY`and set the value to the key that Semantic Scholar has assigned to you upon filling out the form.
 
 Here is a small example of how you should do it:
 
