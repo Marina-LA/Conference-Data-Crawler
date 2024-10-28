@@ -1,0 +1,46 @@
+{
+    "20XX": [{
+                "Title": "Paper title here",
+                "Year": "1999",
+                "DOI Number": "10.1111/12345.12345",
+                "OpenAlex Link": "https://api.openalex.org/works/",
+                "Authors and Institutions": [
+                    {
+                        "Author": "Author Name 1",
+                        "Institutions": [
+                            {
+                                "Institution Name": "Institution Name here",
+                                "Country": "Country Code ISO-2 here"
+                            }
+                        ]
+                    },
+                    {
+                        "Author": "Author Name 2",
+                        "Institutions": [
+                            {
+                                "Institution Name": "Institution Name here",
+                                "Country": "Country Code ISO-2 here"
+                            }
+                        ]
+                    }
+                ],
+                "S2 Paper ID": "abcdefghijklmnopqrstuvwxyz0123456789",
+                "Abstract": "Paper abstract here",
+                "TLDR": "Semantic Scholar TLDR here",
+                "Citations S2": [
+                    {
+                        "paperId": "12345678910abcdefghijklmnopqrstuvwxyz",
+                        "title": "Cited paper title here"
+                    },
+                    {
+                        "paperId": "12345678910abcdefghijklmnopqrstuvwxyz",
+                        "title": "Cited paper title here"
+                    },
+                    {
+                        "paperId": "12345678910abcdefghijklmnopqrstuvwxyz",
+                        "title": "Cited paper title here"
+                    }
+                ]
+            }
+        ]
+    }

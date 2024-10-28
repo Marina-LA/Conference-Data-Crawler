@@ -174,7 +174,7 @@ The data files in these directories have this naming format ``{conf}_extended_da
                     {
                         "paperId": "12345678910abcdefghijklmnopqrstuvwxyz",
                         "title": "Cited paper title here"
-                    },
+                    }
                 ]
             }
         ]
@@ -230,8 +230,8 @@ The data files in these directories have this naming format ``{conf}_citations_d
                             "Country": "Country Code ISO-2 here"
                         }
                     ]
-                },
-            ]
+                }
+            ]s
         } 
     ]
 }

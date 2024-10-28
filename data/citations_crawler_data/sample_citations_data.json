@@ -1,0 +1,47 @@
+{
+    "Title Paper Citing 1": [
+        {
+            "Title": "Title Cited Paper 1",
+            "DOI Number": "10.1111/12345.12345",
+            "Venue": "Venue Name here",
+            "Year": "1999",
+            "Authors": [
+                {
+                    "Author": "Author Name 1",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institution Name here",
+                            "Country": "Country Code ISO-2 here"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Author Name 2",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institution Name here",
+                            "Country": "Country Code ISO-2 here"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Title Cited Paper 2",
+            "DOI Number": "10.1111/12345.12345",
+            "Venue": "Venue Name here",
+            "Year": "1999",
+            "Authors": [
+                {
+                    "Author": "Author Name 1",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institution Name here",
+                            "Country": "Country Code ISO-2 here"
+                        }
+                    ]
+                }
+            ]
+        } 
+    ]
+}
