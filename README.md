@@ -77,7 +77,7 @@ You can also use the crawler without an API key, but it should be noted that the
 
 Here is a small example of how you should do it:
 
-```json
+```console
 SEMANTIC_SCHOLAR_API_KEY="you_key_here" 
 ```
 
