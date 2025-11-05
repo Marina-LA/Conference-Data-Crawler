@@ -7,8 +7,9 @@ from logs.logging_config import setup_logging
 if __name__ == "__main__":
     setup_logging()
     # example of conferences (use the same name as in the dblp url)
-    conferences = ["nsdi", "cloud", "middleware", "eurosys", "icdcs", "ccgrid", "europar", "sigcomm", "IEEEcloud", "ic2e"]
-    years = (2020, 2023)
+    conferences = ["nsdi", "cloud", "middleware", "eurosys", "icdcs", "ccgrid", "europar", "sigcomm", "IEEEcloud", "ic2e", "atc", "asplos", "osdi"]
+    # conferences = ["nsdi"]
+    years = (2012, 2024)
 
     for conference in conferences:
         base_crawler = BaseCrawler(conference, years)
