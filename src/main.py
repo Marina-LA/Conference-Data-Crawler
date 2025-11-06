@@ -66,7 +66,7 @@ def main():
         "ccgrid", "europar", "sigcomm", "IEEEcloud", "ic2e",
         "osdi", "asplos", "atc"
     ]
-    years = (2019, 2019)
+    years = (2012, 2024)
     
     logger.info(f"Starting crawl for {len(conferences)} conferences")
     logger.info(f"Years: {years[0]}-{years[1]}")
